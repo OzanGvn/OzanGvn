@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @OzanGvn
+- 👀 I’m interested in software development, webdesign- and development 
+- 🌱 I’m currently learning Python, JScript, HTML and C#
+- 📫 How to reach me: through mail at Ozanarneguven1@gmail.com
